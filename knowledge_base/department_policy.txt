@@ -1,0 +1,23 @@
+# Computer Science Department: Official Academic Policies
+
+## Section 1: Academic Integrity
+All students are expected to adhere to the University's Code of Academic Integrity. Plagiarism, cheating, or any form of academic dishonesty will not be tolerated.
+- **First Offense:** A zero on the assignment or exam in question, and a formal warning logged in the student's file.
+- **Second Offense:** An 'F' grade for the course and a mandatory meeting with the Head of Department.
+- **Third Offense:** Expulsion from the university.
+All submitted code may be subject to automated plagiarism detection using tools like MOSS.
+
+## Section 2: Attendance Policy
+Consistent attendance is crucial for academic success.
+- Students are expected to attend at least 80% of all lectures and labs for each course.
+- Failure to meet the 80% attendance requirement will result in being barred from taking the final examination for that course.
+- In case of a valid medical emergency, students must provide an official medical certificate to the department office within three working days of their return.
+
+## Section 3: Grading Scale
+The final grade in each course is determined by a combination of assignments, quizzes, mid-term exams, and a final examination. The official grading scale is as follows:
+- A: 90-100%
+- B: 80-89%
+- C: 70-79%
+- D: 60-69%
+- F: Below 60%
+There is no curve. Your grade is a direct reflection of your performance.

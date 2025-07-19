@@ -1,0 +1,31 @@
+# Computer Science Department: Official Course Catalog
+
+**Course Code: CS101**
+**Title: Introduction to Programming**
+**Credits: 3**
+**Description:** This course is the foundational gateway to computer science. Students will learn the fundamentals of programming, including variables, control structures (loops, conditionals), functions, and basic data types. The primary language of instruction is Python. Emphasis is placed on problem-solving and algorithmic thinking.
+**Prerequisites:** None.
+
+**Course Code: CS202**
+**Title: Data Structures and Algorithms**
+**Credits: 4**
+**Description:** A core course that provides a comprehensive study of fundamental data structures such as arrays, linked lists, stacks, queues, trees, hash tables, and graphs. Students will also analyze the time and space complexity of algorithms. This course involves significant programming assignments.
+**Prerequisites:** CS101 - Introduction to Programming.
+
+**Course Code: CS210**
+**Title: Database Systems**
+**Credits: 3**
+**Description:** This course covers the design, theory, and implementation of database management systems (DBMS). Topics include the relational model, SQL, database design using ER diagrams, normalization, transaction management, and concurrency control. Students will complete a project involving the design and implementation of a small database application.
+**Prerequisites:** CS101 - Introduction to Programming.
+
+**Course Code: SE350**
+**Title: Software Engineering Principles**
+**Credits: 3**
+**Description:** An introduction to the principles of software engineering, covering the entire software development lifecycle. Topics include requirements gathering, software design patterns, agile methodologies (Scrum, Kanban), testing, and maintenance. The course includes a semester-long group project to develop a software application.
+**Prerequisites:** CS202 - Data Structures and Algorithms.
+
+**Course Code: AI405**
+**Title: Advanced Machine Learning**
+**Credits: 3**
+**Description:** A deep dive into modern machine learning techniques. This course explores neural networks, deep learning architectures (CNNs, RNNs), reinforcement learning, and generative models. A strong mathematical background in linear algebra, calculus, and probability is essential for success.
+**Prerequisites:** CS202 - Data Structures and Algorithms, and a course in Linear Algebra.
